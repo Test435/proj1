@@ -1,0 +1,18 @@
+First line Changed 1
+
+Second line added11
+
+third Mt11
+
+
+<<<<<<< HEAD
+added live11
+
+change 1 to branch bb1111
+
+change 2 to branc bb111
+
+ 
+=======
+proj1 change1
+>>>>>>> 9718f05600c1d07070e434b31db9cee39ecc4bff
